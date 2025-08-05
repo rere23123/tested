@@ -1,6 +1,5 @@
 windowIconSet: /Textures/Logo/icon
-defaultWindowTitle: Space Station 14 - [RU][MRP] Enterprise # Ganimed
-splashLogo: /Textures/_Ganimed/Logo/logo-ganimed.png #Ganimed
+defaultWindowTitle: Space Station 14 - [RU][MRP]Necropolis
+splashLogo: /Textures/_Ganimed/Logo/logo-necropholis.png #Necropolis
 multiWindow: true
 
-# PJB PLEASE
